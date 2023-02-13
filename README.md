@@ -1,6 +1,6 @@
 # Fantasy Data Pros Blog Series
 
-Within this notebook is all of the source notebooks for the FDP blog series.
+Within this repository is all of the source notebooks for the FDP blog series.
 
 This README is the roadmap for each of the FDP blog series. 
 
